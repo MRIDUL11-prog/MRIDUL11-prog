@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mridul Saha</h1>
+<h1 align="center">Hello Coders👋, I'm Mridul Saha</h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Frontend+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning+🚀" />
@@ -24,7 +24,7 @@
 <a href="https://instagram.com/itz_mridul_23" target="blank">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="30"/>
 </a>
-<a href="https://www.leetcode.com/coding-with_mridul" target="blank">
+<a href="https://leetcode.com/u/Coding_with_Mridul/" target="blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30"/>
 </a>
 </p>
